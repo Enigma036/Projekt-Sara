@@ -1,0 +1,11 @@
+chrome.exe#chrome
+powerpnt.exe#powerpoint
+winword.exe#word
+excel.exe#excel
+outlook.exe#outlook
+onenote.exe#onenote
+msedge.exe#edge
+control.exe#nastavení windows
+spotify#spotify
+python.exe#python
+notepad.exe#poznámkový blok

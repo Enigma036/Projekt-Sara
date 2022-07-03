@@ -1,0 +1,7 @@
+Pillow==8.4.0
+pyaudio==0.2.11
+SpeechRecognition==3.8.1
+playsound==1.2.2
+gTTS==2.2.3
+pygame==2.0.2
+wikipedia==1.4.0
